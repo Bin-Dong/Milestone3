@@ -333,6 +333,9 @@ var HomePage = /** @class */ (function () {
         }
         else if (code == 500) {
             console.log("Get Request Failed");
+            document.getElementById("textfield").innerHTML = "Get Request Failed. Please check your internet connection";
+            document.getElementById("divblock").setAttribute("style", "display:block");
+            document.getElementById("textfield").setAttribute("style", "border-style: double");
         }
         else if (code == 0) {
             console.log("Function finish executing");
@@ -350,6 +353,7 @@ var HomePage = /** @class */ (function () {
             document.getElementById("textfield").innerHTML = "File cannot be Found. Please put your XML SCRIPT in <br />" + this.file.externalCacheDirectory;
             document.getElementById("divblock").setAttribute("style", "display:block");
             document.getElementById("textfield").setAttribute("style", "border-style: double");
+            console.log("File cannot be found in Android");
         }
     };
     HomePage = __decorate([
