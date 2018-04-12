@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Msg>
+	<Head>
+		<MsgID>301</MsgID>
+		<Description>XML Parse Complete</Description>
+	</Head>
+	<Body>
+		<NextTask>
+			<Execute>Display Result</Execute>
+			<Redirect_Page>Home.html</Redirect_Page>
+		</NextTask>
+	</Body>
+</Msg>

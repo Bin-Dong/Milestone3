@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Msg>
+	<Head>
+		<MsgID>701</MsgID>
+		<Description>ANDROID SCRIPT NOT FOUND</Description>
+		<Reason>Script was either not loaded or in incorrect directory</Reason>
+	</Head>
+	<Body>
+		<NextTask>
+			<Execute>Display Android Location Path</Execute>
+			<Redirect_Page>Home</Redirect_Page>
+		</NextTask>
+	</Body>
+</Msg>

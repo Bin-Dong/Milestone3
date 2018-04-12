@@ -8,7 +8,11 @@
 <ion-content padding>
 	<h1> Welcome to a Chinese Translator App!</h1>
 	<p> This app will translate sentences to Chinese from English. </p>
-	 <button ion-button block color="dark" (click)="doPrompt()">Press to start!</button>
+	 <button ion-button block color="dark" (click)="doPrompt()">Press to translate to Chinese</button>
+	 <button ion-button block color="dark" (click)="doRead()">Press to Load a Script</button>
+	 <div id = "divblock" style ="display:none">
+	<p id="textfield"></p>
+	</div>
 <p> Even cats are excited to use this app! </p>
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Code">
 </ion-content>

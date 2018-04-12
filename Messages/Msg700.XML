@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Msg>
+	<Head>
+		<MsgID>700</MsgID>
+		<Description>iOS SCRIPT NOT FOUND</Description>
+		<Reason>Script was either not loaded or in incorrect directory</Reason>
+	</Head>
+	<Body>
+		<NextTask>
+			<Execute>Display iOS Location Path</Execute>
+			<Redirect_Page>Home</Redirect_Page>
+		</NextTask>
+	</Body>
+</Msg>

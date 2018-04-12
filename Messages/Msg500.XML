@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Msg>
+	<Head>
+		<MsgID>500</MsgID>
+		<Description>GET Fail</Description>
+		<Reason> NO WEB CONNECTIVITY </Reason>
+	</Head>
+	<Body>
+		<NextTask>
+			<Execute>Return to App Page</Execute>
+			<Redirect_Page>Home</Redirect_Page>
+		</NextTask>
+	</Body>
+</Msg>

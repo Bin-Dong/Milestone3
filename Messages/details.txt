@@ -1,0 +1,49 @@
+MsgID: 0
+Description: Finished Executing
+Variables:
+	nextTask (Variable contains a function for next execution step)
+
+
+MsgID: 100
+Description: User Requested Cancellation
+Variables:
+	nextTask (Variable contains a function for next execution step)
+
+
+MsgID: 301
+Description: XML PARSE COMPLETE
+Variables:
+	nextTask (Functions for next execution step... redirection)
+	redirectURL (link to redirect to)
+
+
+MsgID: 333
+Description: GET SUCCESS
+Variables:
+	nextTask (Functions for next execution step ... connect to server )
+	nextTask2 (Function for next execution step after nextTask ... read response body)
+	nextTask3 (Function for next execution step after nextTask ... execute parser)
+
+
+MsgID: 500
+Description: GET FAIL
+Reason: No Internet Service
+Variables:
+	nextTask (Functions for next execution step ... return to app page)
+	redirectURL (link to redirect to)
+
+
+MsgID: 700
+Description: iOS Script Not Found
+Reason: Script was either not loaded or in incorrect directory
+Variables:
+	nextTask (Functions for next execution step ... Display iOS Location Path)
+	redirectURL (link to redirect to)
+
+
+MsgID: 701
+Description: Android Script Not Found
+Reason: Script was either not loaded or in incorrect directory
+Variables:
+	nextTask (Functions for next execution step ... Display Android Location Path)
+	redirectURL (link to redirect to)

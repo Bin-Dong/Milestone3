@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Msg>
+	<Head>
+		<MsgID>333</MsgID>
+		<Description>GET SUCCESS</Description>
+	</Head>
+	<Body>
+		<NextTask>
+			<Execute>Connect to external server component</Execute>
+			<Execute>Read Response Body</Execute>
+			<Execute>Execute Parser</Execute>
+		</NextTask>
+	</Body>
+</Msg>
