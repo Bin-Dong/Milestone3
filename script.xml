@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<Translate>
+	<Text>The upstairs shower? Solid pressure ‘til it cuts to drizzle. Incomplete rinse of foam from an eye. That’s life, when the downstairs toilet flushes. Blame linked supply lines. Except no one else is home. No one I let in. I towel-dry my face, don drawers in case. In case of what? A situation? Dismissing it as paranoia, then a board squeaks from the front room floor. Canary song stops? Flee the mine. Auditing my enemies list, stumped. I consider the stranger who followed me through the park last evening. Shampoo on my retina. The phenomena of unannounced visitors, underpowered pumps.</Text>
+	<Direction>
+		<From>auto</From>
+		<To>zh-cn</To>
+		<TranslateOptions>
+			<Option1> 'auto' -- Automatic </Option1>
+			<Option2> 'af' -- Afrikaans </Option2>
+			<Option3> 'sq' -- Albanian </Option3>
+			<Option4> 'am' -- Amharic </Option4>
+			<Option5> 'ar' -- Arabic </Option5>
+			<Option6> 'hy' -- Armenian </Option6>
+			<Option7> 'az' -- Azerbaijani </Option7>
+			<Option8> 'eu' -- Basque </Option8>
+			<Option9> 'be' -- Belarusian </Option9>
+			<Option10> 'bn' -- Bengali </Option10>
+			<Option11> 'bs' -- Bosnian </Option11>
+			<Option12> 'bg' -- Bulgarian </Option12>
+			<Option13> 'ca' -- Catalan </Option13>
+			<Option14> 'ceb' -- Cebuano </Option14>
+			<Option15> 'ny' -- Chichewa </Option15>
+			<Option16> 'zh-cn' -- Chinese Simplified </Option16>
+			<Option17> 'zh-tw' -- Chinese Traditional </Option17>
+			<Option18> 'co' -- Corsican </Option18>
+			<Option19> 'hr' -- Croatian </Option19>
+			<Option20> 'cs' -- Czech </Option20>
+			<Option21> 'da' -- Danish </Option21>
+			<Option22> 'nl' -- Dutch </Option22>
+			<Option23> 'en' -- English </Option23>
+			<Option24> 'eo' -- Esperanto </Option24>
+			<Option25> 'et' -- Estonian </Option25>
+			<Option26> 'tl' -- Filipino </Option26>
+			<Option27> 'fi' -- Finnish </Option27>
+			<Option28> 'fr' -- French </Option28>
+			<Option29> 'fy' -- Frisian </Option29>
+			<Option30> 'gl' -- Galician </Option30>
+			<Option31> 'ka' -- Georgian </Option31>
+			<Option32> 'de' -- German </Option32>
+			<Option33> 'el' -- Greek </Option33>
+			<Option34> 'gu' -- Gujarati </Option34>
+			<Option35> 'ht' -- Haitian Creole </Option35>
+			<Option36> 'ha' -- Hausa </Option36>
+			<Option37> 'haw' -- Hawaiian </Option37>
+			<Option38> 'iw' -- Hebrew </Option38>
+			<Option39> 'hi' -- Hindi </Option39>
+			<Option40> 'hmn' -- Hmong </Option40>
+			<Option41> 'hu' -- Hungarian </Option41>
+			<Option42> 'is' -- Icelandic </Option42>
+			<Option43> 'ig' -- Igbo </Option43>
+			<Option44> 'id' -- Indonesian </Option44>
+			<Option45> 'ga' -- Irish </Option45>
+			<Option46> 'it' -- Italian </Option46>
+			<Option47> 'ja' -- Japanese </Option47>
+			<Option48> 'jw' -- Javanese </Option48>
+			<Option49> 'kn' -- Kannada </Option49>
+			<Option50> 'kk' -- Kazakh </Option50>
+			<Option51> 'km' -- Khmer </Option51>
+			<Option52> 'ko' -- Korean </Option52>
+			<Option53> 'ku' -- Kurdish (Kurmanji) </Option53>
+			<Option54> 'ky' -- Kyrgyz </Option54>
+			<Option55> 'lo' -- Lao </Option55>
+			<Option56> 'la' -- Latin </Option56>
+			<Option57> 'lv' -- Latvian </Option57>
+			<Option58> 'lt' -- Lithuanian </Option58>
+			<Option59> 'lb' -- Luxembourgish </Option59>
+			<Option60> 'mk' -- Macedonian </Option60>
+			<Option61> 'mg' -- Malagasy </Option61>
+			<Option62> 'ms' -- Malay </Option62>
+			<Option63> 'ml' -- Malayalam </Option63>
+			<Option64> 'mt' -- Maltese </Option64>
+			<Option65> 'mi' -- Maori </Option65>
+			<Option66> 'mr' -- Marathi </Option66>
+			<Option67> 'mn' -- Mongolian </Option67>
+			<Option68> 'my' -- Myanmar (Burmese) </Option68>
+			<Option69> 'ne' -- Nepali </Option69>
+			<Option70> 'no' -- Norwegian </Option70>
+			<Option71> 'ps' -- Pashto </Option71>
+			<Option72> 'fa' -- Persian </Option72>
+			<Option73> 'pl' -- Polish </Option73>
+			<Option74> 'pt' -- Portuguese </Option74>
+			<Option75> 'ma' -- Punjabi </Option75>
+			<Option76> 'ro' -- Romanian </Option76>
+			<Option77> 'ru' -- Russian </Option77>
+			<Option78> 'sm' -- Samoan </Option78>
+			<Option79> 'gd' -- Scots Gaelic </Option79>
+			<Option80> 'sr' -- Serbian </Option80>
+			<Option81> 'st' -- Sesotho </Option81>
+			<Option82> 'sn' -- Shona </Option82>
+			<Option83> 'sd' -- Sindhi </Option83>
+			<Option84> 'si' -- Sinhala </Option84>
+			<Option85> 'sk' -- Slovak </Option85>
+			<Option86> 'sl' -- Slovenian </Option86>
+			<Option87> 'so' -- Somali </Option87>
+			<Option88> 'es' -- Spanish </Option88>
+			<Option89> 'su' -- Sundanese </Option89>
+			<Option90> 'sw' -- Swahili </Option90>
+			<Option91> 'sv' -- Swedish </Option91>
+			<Option92> 'tg' -- Tajik </Option92>
+			<Option93> 'ta' -- Tamil </Option93>
+			<Option94> 'te' -- Telugu </Option94>
+			<Option95> 'th' -- Thai </Option95>
+			<Option96> 'tr' -- Turkish </Option96>
+			<Option97> 'uk' -- Ukrainian </Option97>
+			<Option98> 'ur' -- Urdu </Option98>
+			<Option99> 'uz' -- Uzbek </Option99>
+			<Option100> 'vi' -- Vietnamese </Option100>
+			<Option101> 'cy' -- Welsh </Option101>
+			<Option102> 'xh' -- Xhosa </Option102>
+			<Option103> 'yi' -- Yiddish </Option103>
+			<Option104> 'yo' -- Yoruba </Option104>
+			<Option105> 'zu' -- Zulu </Option105>
+		</TranslateOptions>
+	</Direction>
+</Translate>
